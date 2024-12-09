@@ -32,4 +32,4 @@
 - **Future Work**: Extend to other regions and refine with additional features.
 
 ## Contact
-For inquiries, contact [developer@example.com].
+For inquiries, contact [dbhavsar@ualberta.ca & spoudel2@ualberta.ca].
